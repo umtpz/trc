@@ -81,13 +81,13 @@ class App extends Component {
     }
   }
 
-  componentDidMount() { // onload function
-    setInterval(() => { // setInterval repeated process with period
-      this.setState({ // changes this.state value like that
+  componentDidMount() { // the onload function
+    setInterval(() => { // on setInterval functions in there repeats itself with a period
+      this.setState({ // placing variables like json changes this.state value in there
         curTime: String("0" + new Date().getHours()).slice(-2) + ":" + String("0" + new Date().getMinutes()).slice(-2)
       })
-    }, 1000) // this function fetches hour and minute then adds 0 to the left and
-              // shows the last 2 letters of them. 08:01 instead of 8:1
+    }, 1000) // using this method will fetch hour and minute then
+            // zips 0 to the left and shows the last 2 letters of them. 08:01 instead of 8:1
 
     this.loadData(meetingIndex) // calls loadData with meetingIndex argument
 
@@ -153,13 +153,13 @@ class App extends Component {
     }
   }
 
-  handlePress() { // routed this function to play click sound on the elements that I want it to play
-    sound1.play(() => { // plays sound1
-      //sound1.release(); // do not release if you want to use that sound again
+  handlePress() { // used this function to play click sound on the elements that I want it to play
+    sound1.play(() => { // music starts to play! sound1
+      //sound1.release(); // unless you know what to do, do not release
     });
   }
 
-  render() { // UI will be rendered in here
+  render() { // the UI will be rendered in here
 
     // Hides statusbar
 
@@ -253,7 +253,7 @@ class App extends Component {
   }
 };
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create({ // these are the styles defined similar to json format
   outerContainer: {
     justifyContent: "space-around",
     height: "92%",

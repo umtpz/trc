@@ -6,11 +6,11 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		gtEKTbKcXLlYgpMTYrl8ZntpnYs=
+		p02yrM3iNtqd5f7PGms4vVjfYRc=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
-		S566rWza26k4+1KMAmQh1BnTasM=
+		XMXh3u5IcMJ7k24KasaE7aPH7RQ=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>PlugIns/trcTests.xctest.dSYM/Contents/Resources/DWARF/trcTests</key>
 		<data>
-		16g9HY+P9uSHiBkQsSaXkdU9OSo=
+		W47wOnGB3u6z39c933PO2uvRkrY=
 		</data>
 		<key>PlugIns/trcTests.xctest/Info.plist</key>
 		<data>
@@ -87,7 +87,7 @@
 		</data>
 		<key>PlugIns/trcTests.xctest/trcTests</key>
 		<data>
-		tYJv+1ahYwaEv9zfBetjkcVlDIg=
+		War/FOPREMncLyRQ1RKiLziIL8g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -96,22 +96,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gtEKTbKcXLlYgpMTYrl8ZntpnYs=
+			p02yrM3iNtqd5f7PGms4vVjfYRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			x3tWafTrAtUVAw6D/W9Par4C6XVYorc296h3csNCFPM=
+			TJDLnP3SMwWAnB6VTCVuUeGA6ghZL99LdxH/YX8TqxM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S566rWza26k4+1KMAmQh1BnTasM=
+			XMXh3u5IcMJ7k24KasaE7aPH7RQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			7BfpoqkMUf2K+KimZJFCYXoEkRFkW6n8S90Sz9FFTk0=
+			Ah073T16tn85CQVMaUkQxS/FSp81hhjwEOwTEhKVU0k=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -252,11 +252,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			16g9HY+P9uSHiBkQsSaXkdU9OSo=
+			W47wOnGB3u6z39c933PO2uvRkrY=
 			</data>
 			<key>hash2</key>
 			<data>
-			GznNFZg8NIJPzs4dyE3IaGYAZAXQhKWGlO9P4y87asI=
+			aDM3DJ+F11SZgCeyoZUl+GTfqscvehocqfTtpZjoiKQ=
 			</data>
 		</dict>
 		<key>PlugIns/trcTests.xctest/Info.plist</key>
@@ -285,11 +285,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tYJv+1ahYwaEv9zfBetjkcVlDIg=
+			War/FOPREMncLyRQ1RKiLziIL8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			c7GDrQ98luy1JzNAOlqM3MvW6a2MEDtz/qRQ1anVLgc=
+			yDBXJWxod5cFt8zzS4HT3eLyJY8ZrMHvPeKtETqC83w=
 			</data>
 		</dict>
 	</dict>
