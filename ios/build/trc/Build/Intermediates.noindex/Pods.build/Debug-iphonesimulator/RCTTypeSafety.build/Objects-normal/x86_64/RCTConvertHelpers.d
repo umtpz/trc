@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/umuttopuz/React/trc/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/umuttopuz/React/trc/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/umuttopuz/React/trc/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/Optional.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/Portability.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/CPortability.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/Traits.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/Utility.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/umuttopuz/React/trc/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
